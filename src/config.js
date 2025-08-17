@@ -54,9 +54,9 @@ const config = {
 	//社交按钮
 	socialPlatformIcons: [
 		{ icon: "mdi-github", link: "https://github.com/bataa7" },
-		{ icon: "mdi-email", link: "mailto:leleo886@foxmail.com" },
-		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
-		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
+		{ icon: "mdi-email", link: "liuyanbo1204@163.com" },
+		{ icon: "mdi-qqchat", link: "/img/ming-1.jpg" },
+		{ icon: "mdi-wechat", link: "/img/ming-2.jpg" },
 		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
 		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
 	],
@@ -64,7 +64,7 @@ const config = {
 	//打字机
 	typeWriterStrings: [
 		"人生的遗憾是没有喝过可乐配雪碧。",
-		"生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"
+		
 	],
 
 	//音乐播放配置，采用MetingJS Api(https://github.com/metowolf/MetingJS)
