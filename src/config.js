@@ -55,8 +55,8 @@ const config = {
 	socialPlatformIcons: [
 		{ icon: "mdi-github", link: "https://github.com/bataa7" },
 		{ icon: "mdi-email", link: "liuyanbo1204@163.com" },
-		{ icon: "mdi-qqchat", link: "/img/ming-1.jpg" },
-		{ icon: "mdi-wechat", link: "/img/ming-2.jpg" },
+		{ icon: "mdi-qqchat", link: "/img/ming-2.jpg" },
+		{ icon: "mdi-wechat", link: "/img/ming-1.jpg" },
 		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
 		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
 	],
