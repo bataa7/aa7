@@ -136,8 +136,8 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/xiyang.jpg", title: "博客", subtitle: "我不会写", text: "If you see this line, I've managed to get your attention.", url: "", show: false },
-		{ go: "🗂️ 前往", img: "/img/yejing.jpg", title: "本站数据报表", subtitle: "让数据说话", text: "If you see this line, I've managed to get your attention.", url: "https://v6.51.la/s/7es4Ug42XERQArS", show: false },
+		{ go: "🚀 前往", img: "/img/xiyang.jpg", title: "博客", subtitle: "我不会写", text: "太难了有没有教教我.", url: "", show: false },
+		{ go: "🗂️ 前往", img: "/img/yejing.jpg", title: "本站数据报表", subtitle: "等待更新", text: "其实我不会整.", url: "", show: false },
 		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "赛博要饭", subtitle: "科技化缘，一码在手天下我有", text: "If you see this line, I've managed to get your attention.", url: "https://bataa7.github.io/saibo/saibo.html", show: false },
 	],
 
