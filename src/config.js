@@ -141,6 +141,7 @@ const config = {
 		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "赛博要饭", subtitle: "科技化缘，一码在手天下我有", text: "If you see this line, I've managed to get your attention.", url: "https://bataa7.github.io/saibo/saibo.html", show: false },
 	    { go: "😀 前往", img: "/img/xiyang.jpg", title: "第一款游戏开发", subtitle: "哈哈哈小试一下", text: "其实很好写.", url: "/img/shipin/youxi-1.mp4", show: false },
 	    { go: "🏃‍ 前往", img: "/img/pao-2.jpg", title: "第一次跑马拉松", subtitle: "跑起来很爽", text: "腿酸爽.", url: "/img/pao-1.jpg", show: false },
+	    { go: "🚕 前往", img: "/img/xiaoche-1.jpg", title: "第一次3D打印", subtitle: "制作一个八通铲车", text: "DIY很好做.", url: "/img/shipin/xiaoche.mp4", show: false },
 	],
 
 
