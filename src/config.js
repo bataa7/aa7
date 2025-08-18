@@ -47,14 +47,14 @@ const config = {
 
 	//极坐标图数据
 	polarChart: {
-		skills: ['吃饭', '游戏', 'JavaScript', 'Node', 'Java', 'Python', 'linux', 'Docker', 'MySQL', 'MongoDB', 'AWS'],
+		skills: ['吃饭', '游戏', '睡觉', 'Node', 'Java', 'Python', 'linux', 'Docker', 'MySQL', 'MongoDB', 'AWS'],
 		skillPoints: [85, 78, 88, 90, 80, 78, 85, 65, 82, 78, 70],
 	},
 
 	//社交按钮
 	socialPlatformIcons: [
 		{ icon: "mdi-github", link: "https://github.com/bataa7" },
-		{ icon: "mdi-email", link: "liuyanbo1204@163.com" },
+		{ icon: "mdi-email", link: "/img/email.txt" },
 		{ icon: "mdi-qqchat", link: "/img/ming-2.jpg" },
 		{ icon: "mdi-wechat", link: "/img/ming-1.jpg" },
 		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
