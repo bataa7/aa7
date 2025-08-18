@@ -58,7 +58,7 @@ const config = {
 		{ icon: "mdi-qqchat", link: "/img/ming-2.jpg" },
 		{ icon: "mdi-wechat", link: "/img/ming-1.jpg" },
 		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
-		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
+		{ icon: "mdi-facebook", link: "/img/excel.lnk }
 	],
 
 	//打字机
