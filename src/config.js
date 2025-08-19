@@ -143,7 +143,7 @@ const config = {
 	    { go: "🏃‍ 前往", img: "/img/pao-2.jpg", title: "第一次跑马拉松", subtitle: "跑起来很爽", text: "腿酸爽.", url: "/img/pao-1.jpg", show: false },
 	    { go: "🚕 前往", img: "/img/xiaoche-1.jpg", title: "第一次3D打印", subtitle: "制作一个八通铲车", text: "DIY很好做.", url: "/img/shipin/xiaoche.mp4", show: false },
 	    { go: "📄 前往", img: "/img/yejing.jpg", title: "第一次写的模型：治理黄河水沙模型", subtitle: "东拼西凑写的", text: "不难.", url: "/img/基于时间序列预测的水沙检测数据优化模型.pdf", show: false },
-	    { go: "🚀 前往", img: "https://t.mwm.moe/pc", title: "物理模拟", subtitle: "", text: ".", url: "https://phet.colorado.edu/zh_CN/", show: false },
+	    { go: "🚀 前往", img: "/img/xiyang.jpg", title: "物理模拟", subtitle: "", text: ".", url: "https://phet.colorado.edu/zh_CN/", show: false },
 	],
 
 
